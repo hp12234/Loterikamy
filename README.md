@@ -24,3 +24,21 @@ Simulador de loteria que o usuario escolhe sei numeros e o programa sorteria out
 | Tela inicial | Primeira Rodada |
 |------------- |-----------------|
 | imagem 1     | imagem 2        |   
+
+
+### codigo principal
+
+``` js:
+function verificaAcertos() {
+    let cont = 0
+    numDig.forEach(function (valor, index) {
+        if (numSort.includes(valor)) {
+            cont = cont + 1
+
+        }
+
+    });
+    document.getElementById("total").innerText = cont
+}
+
+```
