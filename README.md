@@ -15,7 +15,6 @@ Simulador de loteria que o usuario escolhe sei numeros e o programa sorteria out
 3. [ ] Realizar test para descobrir bugs 🐱‍👤
 
 #### disponivel em:
-
 [GitHubPage](https://hp12234.github.io/Loterikamy/)
 
 
@@ -23,7 +22,9 @@ Simulador de loteria que o usuario escolhe sei numeros e o programa sorteria out
 
 | Tela inicial | Primeira Rodada |
 |------------- |-----------------|
-| imagem 1     | imagem 2        |   
+| ![tela inicial do site](/img/minhatela.png)     | 
+ 
+ ![tela inicial do site](https://raw.githubusercontent.com/hp12234/Loterikamy/master/img/tela%202.png)    |   
 
 
 ### codigo principal
